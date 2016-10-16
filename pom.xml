@@ -21,6 +21,15 @@
 		<developerConnection>scm:git:git@github.com:consani/CalculadoraRest.git</developerConnection>
 	</scm>
 	
+	<developers>
+		<developer>
+			<email>braulio.consani@gmail.com</email>
+			<name>Braulio Consani</name>
+			<url>https://github.com/consani</url>
+			<id>consani</id>
+		</developer>
+	</developers>
+		
 	<dependencies>
 		<dependency>
 			<groupId>org.glassfish.jersey.test-framework.providers</groupId>
